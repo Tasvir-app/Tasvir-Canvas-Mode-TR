@@ -10,6 +10,8 @@
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![Tasvir neler çizebilir](https://img.shields.io/badge/Tasvir_neler_%C3%A7izebilir-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/ozellikler/)
 
+[🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · **🎨 Canvas Modu** · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)
+
 </div>
 
 Çanakkale'yi bir Christopher Nolan filminin storyboard'u gibi, Kapadokya'yı Mars'ta satılan bir emlak broşürü gibi, Türkiye'nin illerini Pokémon kartları gibi anlatan 45 seri. Her biri **tek bir istemden** çıktı: planı yapay zekâ kurdu, 25 sahneyi o yazdı, her sahnenin görselini o çizdi.
