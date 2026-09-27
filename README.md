@@ -514,6 +514,8 @@ Listenin tamamı: **[tasvir.ai/tr/ozellikler](https://tasvir.ai/tr/ozellikler/)*
 - **[Tasvir-Canvas-Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)** — bu vitrinin İngilizce serileri: kuantum dolanıklık romantik komedi olarak, kara delik lüks otel broşürü olarak.
 - **[Tasvir](https://github.com/Tasvir-app/Tasvir)** — ders notu, rapor, dergi ve çocuk kitabı örnekleri.
 
+Okul ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=institutions)**. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/).
+
 ---
 
 <div align="center">
