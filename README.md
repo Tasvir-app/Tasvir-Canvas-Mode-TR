@@ -10,7 +10,7 @@
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![Tasvir neler çizebilir](https://img.shields.io/badge/Tasvir_neler_%C3%A7izebilir-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/ozellikler/)
 
-[🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · **🎨 Canvas Modu** · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)
+[🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · **🎨 Canvas Modu** · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)
 
 </div>
 
@@ -513,6 +513,7 @@ Listenin tamamı: **[tasvir.ai/tr/ozellikler](https://tasvir.ai/tr/ozellikler/)*
 - **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)** — 83 TYT/AYT konu anlatımı, 2.860 sayfa, istemleriyle.
 - **[Tasvir-Canvas-Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)** — bu vitrinin İngilizce serileri: kuantum dolanıklık romantik komedi olarak, kara delik lüks otel broşürü olarak.
 - **[Tasvir](https://github.com/Tasvir-app/Tasvir)** — ders notu, rapor, dergi ve çocuk kitabı örnekleri.
+- **[Tasvir-Web-Designs-to-Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma)** — aynı 1440 piksel genişlikte web tasarımları, Figma'ya düzenlenebilir katman olarak (İngilizce). Canvas sahneleri de aynı şekilde kopyalanır.
 
 Okul ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=institutions)**. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/).
 
