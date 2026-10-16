@@ -8,7 +8,7 @@
 
 [![Kendi serini üret](https://img.shields.io/badge/Kendi_serini_%C3%BCret-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=top)
 [![90 saniyelik demo](https://img.shields.io/badge/%E2%96%B6_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
-[![Tasvir neler çizebilir](https://img.shields.io/badge/Tasvir_neler_%C3%A7izebilir-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/ozellikler/)
+[![Tasvir neler çizebilir](https://img.shields.io/badge/Tasvir_neler_%C3%A7izebilir-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/ozellikler/?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=bir-konuyu-kimsenin-tasvir-neler-cizebilir)
 
 [🏠 Tasvir uygulaması](https://github.com/Tasvir-app/Tasvir-TR) · **🎨 Canvas Modu** · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)
 
@@ -28,14 +28,14 @@ Görsele tıkla: seri tarayıcıda açılır, kayıt istemez.
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b2e74bf219e1b6a12e2283777110287ea56d70b07883b4b652a20cec3acdceae/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b2e74bf219e1b6a12e2283777110287ea56d70b07883b4b652a20cec3acdceae" width="280" alt="Çanakkale 18 Mart × Dunkirk storyboard"/></a><br/><strong>Çanakkale 18 Mart</strong><br/><sub>× Dunkirk storyboard</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b5c48ea62091a85c950d91b4de1ad69986019eb02a585f94dfe82f184550fc8d/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b5c48ea62091a85c950d91b4de1ad69986019eb02a585f94dfe82f184550fc8d" width="280" alt="Türkiye illeri × Pokémon kartları"/></a><br/><strong>Türkiye illeri</strong><br/><sub>× Pokémon kartları</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/fcfb0fdabb02397ac3ad52d0640173f6362e83bf082307d1c2fb96dd64f2e2ad/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/fcfb0fdabb02397ac3ad52d0640173f6362e83bf082307d1c2fb96dd64f2e2ad" width="280" alt="Kapadokya × Mars kolonisi emlak broşürü"/></a><br/><strong>Kapadokya</strong><br/><sub>× Mars kolonisi emlak broşürü</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b2e74bf219e1b6a12e2283777110287ea56d70b07883b4b652a20cec3acdceae/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=one-cikan-alti-seri-canakkale-18-mart-dunkirk-storyboard"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b2e74bf219e1b6a12e2283777110287ea56d70b07883b4b652a20cec3acdceae" width="280" alt="Çanakkale 18 Mart × Dunkirk storyboard"/></a><br/><strong>Çanakkale 18 Mart</strong><br/><sub>× Dunkirk storyboard</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/b5c48ea62091a85c950d91b4de1ad69986019eb02a585f94dfe82f184550fc8d/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=one-cikan-alti-seri-turkiye-illeri-pok-mon-kartlari"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/b5c48ea62091a85c950d91b4de1ad69986019eb02a585f94dfe82f184550fc8d" width="280" alt="Türkiye illeri × Pokémon kartları"/></a><br/><strong>Türkiye illeri</strong><br/><sub>× Pokémon kartları</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/fcfb0fdabb02397ac3ad52d0640173f6362e83bf082307d1c2fb96dd64f2e2ad/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=one-cikan-alti-seri-kapadokya-mars-kolonisi-emlak-brosuru"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/fcfb0fdabb02397ac3ad52d0640173f6362e83bf082307d1c2fb96dd64f2e2ad" width="280" alt="Kapadokya × Mars kolonisi emlak broşürü"/></a><br/><strong>Kapadokya</strong><br/><sub>× Mars kolonisi emlak broşürü</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/76acf83754f990ab0cf6012aef077108069fac7b5746d87831bb79fbb04f0dc2/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/76acf83754f990ab0cf6012aef077108069fac7b5746d87831bb79fbb04f0dc2" width="280" alt="Türk düğünü × NASA fırlatma sekansı"/></a><br/><strong>Türk düğünü</strong><br/><sub>× NASA fırlatma sekansı</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/1f94917cec52486812bb5e44fbdb085f94b2c8a984ddb0c63c7ffbc250aeb88b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/1f94917cec52486812bb5e44fbdb085f94b2c8a984ddb0c63c7ffbc250aeb88b" width="280" alt="Kemal Sunal karakterleri × kariyer koçluğu"/></a><br/><strong>Kemal Sunal karakterleri</strong><br/><sub>× kariyer koçluğu</sub></td>
-    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/becb80c7e7d2fa0e41ceabb787af500f7e7395767d3a4390c6701a9e5bc84e0b/1"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/becb80c7e7d2fa0e41ceabb787af500f7e7395767d3a4390c6701a9e5bc84e0b" width="280" alt="Transformer attention × Divan-ı Hümayun"/></a><br/><strong>Transformer attention</strong><br/><sub>× Divan-ı Hümayun</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/76acf83754f990ab0cf6012aef077108069fac7b5746d87831bb79fbb04f0dc2/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=one-cikan-alti-seri-turk-dugunu-nasa-firlatma-sekansi"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/76acf83754f990ab0cf6012aef077108069fac7b5746d87831bb79fbb04f0dc2" width="280" alt="Türk düğünü × NASA fırlatma sekansı"/></a><br/><strong>Türk düğünü</strong><br/><sub>× NASA fırlatma sekansı</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/1f94917cec52486812bb5e44fbdb085f94b2c8a984ddb0c63c7ffbc250aeb88b/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=one-cikan-alti-seri-kemal-sunal-karakterleri-kariyer-koclugu"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/1f94917cec52486812bb5e44fbdb085f94b2c8a984ddb0c63c7ffbc250aeb88b" width="280" alt="Kemal Sunal karakterleri × kariyer koçluğu"/></a><br/><strong>Kemal Sunal karakterleri</strong><br/><sub>× kariyer koçluğu</sub></td>
+    <td align="center" width="33%"><a href="https://app.tasvir.ai/c/becb80c7e7d2fa0e41ceabb787af500f7e7395767d3a4390c6701a9e5bc84e0b/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=one-cikan-alti-seri-transformer-attention-divan-i-humayun"><img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/becb80c7e7d2fa0e41ceabb787af500f7e7395767d3a4390c6701a9e5bc84e0b" width="280" alt="Transformer attention × Divan-ı Hümayun"/></a><br/><strong>Transformer attention</strong><br/><sub>× Divan-ı Hümayun</sub></td>
   </tr>
 </table>
 
@@ -66,12 +66,12 @@ Format, anlatımın iskeletini veriyor: bir LinkedIn profilinin başlıkları, b
 
 | Konu | Format | |
 |---|---|---|
-| Çanakkale 18 Mart | Dunkirk storyboard | [Aç](https://app.tasvir.ai/c/b2e74bf219e1b6a12e2283777110287ea56d70b07883b4b652a20cec3acdceae/1) |
-| Malazgirt 1071 | NASA görev kontrol | [Aç](https://app.tasvir.ai/c/50a2237ec67b3a6dcd9b4c6785f2cd184ca081a989034a360dbed1e811c28c94/1) |
-| Kurtuluş Savaşı | startup pitch deck | [Aç](https://app.tasvir.ai/c/a1435941fe691e796732bdd6c43943da2a36112bca594642947b51783d245439/1) |
-| Kayıp Osmanlı meslekleri | LinkedIn profili | [Aç](https://app.tasvir.ai/c/eadfde9585ee54f884b6ec7f014d587aa6a4148fd05c5d7821876815cbbe3688/1) |
-| Sarıkamış 1914 | hava durumu bülteni | [Aç](https://app.tasvir.ai/c/ff2ee255886f7b57237dc93827d0bf7769b3c42d96d460b6f2cdd262ff6d63f2/1) |
-| Ahmet Ertegün | Rolling Stone dosyası | [Aç](https://app.tasvir.ai/c/dcc3df233d3dc74c5a95935ed2fcabd9a615707ad954060193b5a4b1461b25c7/1) |
+| Çanakkale 18 Mart | Dunkirk storyboard | [Aç](https://app.tasvir.ai/c/b2e74bf219e1b6a12e2283777110287ea56d70b07883b4b652a20cec3acdceae/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tarih-ac) |
+| Malazgirt 1071 | NASA görev kontrol | [Aç](https://app.tasvir.ai/c/50a2237ec67b3a6dcd9b4c6785f2cd184ca081a989034a360dbed1e811c28c94/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tarih-ac) |
+| Kurtuluş Savaşı | startup pitch deck | [Aç](https://app.tasvir.ai/c/a1435941fe691e796732bdd6c43943da2a36112bca594642947b51783d245439/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tarih-ac) |
+| Kayıp Osmanlı meslekleri | LinkedIn profili | [Aç](https://app.tasvir.ai/c/eadfde9585ee54f884b6ec7f014d587aa6a4148fd05c5d7821876815cbbe3688/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tarih-ac) |
+| Sarıkamış 1914 | hava durumu bülteni | [Aç](https://app.tasvir.ai/c/ff2ee255886f7b57237dc93827d0bf7769b3c42d96d460b6f2cdd262ff6d63f2/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tarih-ac) |
+| Ahmet Ertegün | Rolling Stone dosyası | [Aç](https://app.tasvir.ai/c/dcc3df233d3dc74c5a95935ed2fcabd9a615707ad954060193b5a4b1461b25c7/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tarih-ac) |
 
 <details>
 <summary>Bu bölümün 6 istemi</summary>
@@ -119,12 +119,12 @@ kulüplerine uzanan hikaye. 60'lar dergi tipografisi, sıcak vintage palet.
 
 | Konu | Format | |
 |---|---|---|
-| Türkiye illeri | Pokémon kartları | [Aç](https://app.tasvir.ai/c/b5c48ea62091a85c950d91b4de1ad69986019eb02a585f94dfe82f184550fc8d/1) |
-| İstanbul Boğazı'nın oluşumu | cinayet dosyası | [Aç](https://app.tasvir.ai/c/4a7f4132fa856ce7bf0114b568744c7a82947d25880db0317890a83805a2d964/1) |
-| Dünyanın en saçma sınırları | travel noir | [Aç](https://app.tasvir.ai/c/0c1d3c26a53f7e3c80f0529fa982d3ae40a18b40323a3f5fe647b672708e6f98/1) |
-| Kapadokya | Mars kolonisi emlak broşürü | [Aç](https://app.tasvir.ai/c/fcfb0fdabb02397ac3ad52d0640173f6362e83bf082307d1c2fb96dd64f2e2ad/1) |
-| Van Gölü | denizaltı seyir defteri | [Aç](https://app.tasvir.ai/c/296603a1271d7aa20ab712df1fa5a1dc90908c795c4d7f76b3748e81b064f2f1/1) |
-| Anadolu antik kentleri | Airbnb ilanları | [Aç](https://app.tasvir.ai/c/04009e5365da712bd14a33235ab479a9c97b55ea99fe92a9b9065e163c87babe/1) |
+| Türkiye illeri | Pokémon kartları | [Aç](https://app.tasvir.ai/c/b5c48ea62091a85c950d91b4de1ad69986019eb02a585f94dfe82f184550fc8d/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cografya-ac) |
+| İstanbul Boğazı'nın oluşumu | cinayet dosyası | [Aç](https://app.tasvir.ai/c/4a7f4132fa856ce7bf0114b568744c7a82947d25880db0317890a83805a2d964/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cografya-ac) |
+| Dünyanın en saçma sınırları | travel noir | [Aç](https://app.tasvir.ai/c/0c1d3c26a53f7e3c80f0529fa982d3ae40a18b40323a3f5fe647b672708e6f98/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cografya-ac) |
+| Kapadokya | Mars kolonisi emlak broşürü | [Aç](https://app.tasvir.ai/c/fcfb0fdabb02397ac3ad52d0640173f6362e83bf082307d1c2fb96dd64f2e2ad/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cografya-ac) |
+| Van Gölü | denizaltı seyir defteri | [Aç](https://app.tasvir.ai/c/296603a1271d7aa20ab712df1fa5a1dc90908c795c4d7f76b3748e81b064f2f1/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cografya-ac) |
+| Anadolu antik kentleri | Airbnb ilanları | [Aç](https://app.tasvir.ai/c/04009e5365da712bd14a33235ab479a9c97b55ea99fe92a9b9065e163c87babe/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cografya-ac) |
 
 <details>
 <summary>Bu bölümün 6 istemi</summary>
@@ -172,11 +172,11 @@ bilgisi, esprili ton.
 
 | Konu | Format | |
 |---|---|---|
-| Aşkın nörokimyası | hormon aşk mektupları | [Aç](https://app.tasvir.ai/c/f2bf80c8973b683f65462dee564ea6177f3de168c7658dd430cd33f226761c89/1) |
-| Ay-Dünya gelgit kilidi | evlilik danışmanlığı | [Aç](https://app.tasvir.ai/c/dee79964af7ebf08406a4333a319c3af89a7d64014deb612035e99befa0cd7c8/1) |
-| Periyodik tablo | futbol transfer sezonu | [Aç](https://app.tasvir.ai/c/10a0555b6bb6d7408bfc420ab7d351c9b046676cea1d832c9686ba240d24011b/1) |
-| Türev | soygun filmi | [Aç](https://app.tasvir.ai/c/380a562432770f895d4796d0f960a6bffd195b55b2a2e93014720bd8bb37c3dc/1) |
-| İnsan gözü | kamera kullanım kılavuzu | [Aç](https://app.tasvir.ai/c/600211e4a992dca2c26109e8faefb5a7f9cd03c77c1838cb9fa4c31518e6f91d/1) |
+| Aşkın nörokimyası | hormon aşk mektupları | [Aç](https://app.tasvir.ai/c/f2bf80c8973b683f65462dee564ea6177f3de168c7658dd430cd33f226761c89/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=bilim-ac) |
+| Ay-Dünya gelgit kilidi | evlilik danışmanlığı | [Aç](https://app.tasvir.ai/c/dee79964af7ebf08406a4333a319c3af89a7d64014deb612035e99befa0cd7c8/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=bilim-ac) |
+| Periyodik tablo | futbol transfer sezonu | [Aç](https://app.tasvir.ai/c/10a0555b6bb6d7408bfc420ab7d351c9b046676cea1d832c9686ba240d24011b/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=bilim-ac) |
+| Türev | soygun filmi | [Aç](https://app.tasvir.ai/c/380a562432770f895d4796d0f960a6bffd195b55b2a2e93014720bd8bb37c3dc/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=bilim-ac) |
+| İnsan gözü | kamera kullanım kılavuzu | [Aç](https://app.tasvir.ai/c/600211e4a992dca2c26109e8faefb5a7f9cd03c77c1838cb9fa4c31518e6f91d/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=bilim-ac) |
 
 <details>
 <summary>Bu bölümün 5 istemi</summary>
@@ -215,10 +215,10 @@ olarak doğru.
 
 | Konu | Format | |
 |---|---|---|
-| Godfather | MBA vaka çalışması | [Aç](https://app.tasvir.ai/c/b41b7fa227483099d1c295586c025b51869519f517f4ced428669f7b0a72559b/1) |
-| Yeşilçam klişeleri | bilimsel makale | [Aç](https://app.tasvir.ai/c/81d24501f7d20f4d04c9a6ee6f1397ef23572fc1cdbaa6931bdb21cb3848081c/1) |
-| Kemal Sunal karakterleri | kariyer koçluğu | [Aç](https://app.tasvir.ai/c/1f94917cec52486812bb5e44fbdb085f94b2c8a984ddb0c63c7ffbc250aeb88b/1) |
-| Türk dizileri | dedektiflik kılavuzu | [Aç](https://app.tasvir.ai/c/410e685d994dc59934cf2a2d628e54a4da71006aa1d3b12d939eab57c68edccd/1) |
+| Godfather | MBA vaka çalışması | [Aç](https://app.tasvir.ai/c/b41b7fa227483099d1c295586c025b51869519f517f4ced428669f7b0a72559b/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sinema-ac) |
+| Yeşilçam klişeleri | bilimsel makale | [Aç](https://app.tasvir.ai/c/81d24501f7d20f4d04c9a6ee6f1397ef23572fc1cdbaa6931bdb21cb3848081c/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sinema-ac) |
+| Kemal Sunal karakterleri | kariyer koçluğu | [Aç](https://app.tasvir.ai/c/1f94917cec52486812bb5e44fbdb085f94b2c8a984ddb0c63c7ffbc250aeb88b/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sinema-ac) |
+| Türk dizileri | dedektiflik kılavuzu | [Aç](https://app.tasvir.ai/c/410e685d994dc59934cf2a2d628e54a4da71006aa1d3b12d939eab57c68edccd/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sinema-ac) |
 
 <details>
 <summary>Bu bölümün 4 istemi</summary>
@@ -251,9 +251,9 @@ dizi izleyicisine göz kırpan bir ton.
 
 | Konu | Format | |
 |---|---|---|
-| Türk düğünü | NASA fırlatma sekansı | [Aç](https://app.tasvir.ai/c/76acf83754f990ab0cf6012aef077108069fac7b5746d87831bb79fbb04f0dc2/1) |
-| Çay demleme | ISO 9001 kalite dokümanı | [Aç](https://app.tasvir.ai/c/e764a4cbe47c97ff1885e8e07f42ec9fb997841a7845f39bee5debd1ab72a806/1) |
-| Annelerin 5 dakikası | görelilik makalesi | [Aç](https://app.tasvir.ai/c/c7cf99efff56222a48e364b81b03387e49f1472023b14cef07f41c21e3e8f565/1) |
+| Türk düğünü | NASA fırlatma sekansı | [Aç](https://app.tasvir.ai/c/76acf83754f990ab0cf6012aef077108069fac7b5746d87831bb79fbb04f0dc2/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=gunluk-hayat-ac) |
+| Çay demleme | ISO 9001 kalite dokümanı | [Aç](https://app.tasvir.ai/c/e764a4cbe47c97ff1885e8e07f42ec9fb997841a7845f39bee5debd1ab72a806/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=gunluk-hayat-ac) |
+| Annelerin 5 dakikası | görelilik makalesi | [Aç](https://app.tasvir.ai/c/c7cf99efff56222a48e364b81b03387e49f1472023b14cef07f41c21e3e8f565/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=gunluk-hayat-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -282,9 +282,9 @@ görelilik bilgisiyle, sevgi dolu mizah.
 
 | Konu | Format | |
 |---|---|---|
-| Türk halk korku figürleri | SCP dosyası | [Aç](https://app.tasvir.ai/c/f0df771c9c78554bc0613acf8285a13e8e6315bc496b08473212b430bec336af/1) |
-| Kara Veba 1347 | günlük gazete | [Aç](https://app.tasvir.ai/c/5ca4d45d14b12a01bbfc435d45d4382fd56db5046761f02702d7eb9290e50db2/1) |
-| Kayaköy | emlak ekspertiz raporu | [Aç](https://app.tasvir.ai/c/41af55925175c97182583e1bfe6d89a10fa0f35b12df08bc3c7a362df9335c95/1) |
+| Türk halk korku figürleri | SCP dosyası | [Aç](https://app.tasvir.ai/c/f0df771c9c78554bc0613acf8285a13e8e6315bc496b08473212b430bec336af/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=korku-ac) |
+| Kara Veba 1347 | günlük gazete | [Aç](https://app.tasvir.ai/c/5ca4d45d14b12a01bbfc435d45d4382fd56db5046761f02702d7eb9290e50db2/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=korku-ac) |
+| Kayaköy | emlak ekspertiz raporu | [Aç](https://app.tasvir.ai/c/41af55925175c97182583e1bfe6d89a10fa0f35b12df08bc3c7a362df9335c95/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=korku-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -314,9 +314,9 @@ saygılı.
 
 | Konu | Format | |
 |---|---|---|
-| Naim Süleymanoğlu 1988 | fizik ders kitabı | [Aç](https://app.tasvir.ai/c/390e6d618138a51720a2dfdba6f8bbeba4acfec9cd59dc01486517afda2aecff/1) |
-| 2002 Dünya Kupası | belgesel storyboard | [Aç](https://app.tasvir.ai/c/db185e33794e86e1b0c74c278ba9b07cd8c8386281f6e767be063a1bc53291a3/1) |
-| Galatasaray 2000 UEFA | askeri harekat brifingi | [Aç](https://app.tasvir.ai/c/6d5f1879a0015c26a2a67cc39ee434148980b74a3f20ba4ac7bac1e5d7ac0b73/1) |
+| Naim Süleymanoğlu 1988 | fizik ders kitabı | [Aç](https://app.tasvir.ai/c/390e6d618138a51720a2dfdba6f8bbeba4acfec9cd59dc01486517afda2aecff/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=spor-ac) |
+| 2002 Dünya Kupası | belgesel storyboard | [Aç](https://app.tasvir.ai/c/db185e33794e86e1b0c74c278ba9b07cd8c8386281f6e767be063a1bc53291a3/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=spor-ac) |
+| Galatasaray 2000 UEFA | askeri harekat brifingi | [Aç](https://app.tasvir.ai/c/6d5f1879a0015c26a2a67cc39ee434148980b74a3f20ba4ac7bac1e5d7ac0b73/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=spor-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -345,9 +345,9 @@ Gerçek skorlar ve isimler, sarı-kırmızı vurgulu harita görselleri.
 
 | Konu | Format | |
 |---|---|---|
-| Anadolu çiftçisi | Fortune 500 yıllık rapor | [Aç](https://app.tasvir.ai/c/1c60701d13a478016237887660d34b85ea3c5caa3ff81806248769fe056a77aa/1) |
-| Kapalıçarşı | Harvard Business Review vakası | [Aç](https://app.tasvir.ai/c/d7dea383e715212ada7f3782d6c3133d47865018f473ecb81f0ff2e2ea166071/1) |
-| Kayseri pastırma ustası | Michelin şef portresi | [Aç](https://app.tasvir.ai/c/ee1576146272d456a41a921deb70dca38f055489997da99ee81938a4983d53f4/1) |
+| Anadolu çiftçisi | Fortune 500 yıllık rapor | [Aç](https://app.tasvir.ai/c/1c60701d13a478016237887660d34b85ea3c5caa3ff81806248769fe056a77aa/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=emek-ac) |
+| Kapalıçarşı | Harvard Business Review vakası | [Aç](https://app.tasvir.ai/c/d7dea383e715212ada7f3782d6c3133d47865018f473ecb81f0ff2e2ea166071/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=emek-ac) |
+| Kayseri pastırma ustası | Michelin şef portresi | [Aç](https://app.tasvir.ai/c/ee1576146272d456a41a921deb70dca38f055489997da99ee81938a4983d53f4/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=emek-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -376,9 +376,9 @@ tasarımı, sıcak kahve-kızıl palet, saygılı ve iştah açıcı.
 
 | Konu | Format | |
 |---|---|---|
-| Transformer attention | Divan-ı Hümayun | [Aç](https://app.tasvir.ai/c/becb80c7e7d2fa0e41ceabb787af500f7e7395767d3a4390c6701a9e5bc84e0b/1) |
-| İnternetin tarihi | İpek Yolu kervan haritası | [Aç](https://app.tasvir.ai/c/0fd76526be76cc9483e192da862ff86af029ba42271428034b38d0c685755f0d/1) |
-| Akıllı telefonun içi | şehir atlası | [Aç](https://app.tasvir.ai/c/fd50d1f2b6b90bd26f769fec9c674157ae14e4117beea57588656211ffc569de/1) |
+| Transformer attention | Divan-ı Hümayun | [Aç](https://app.tasvir.ai/c/becb80c7e7d2fa0e41ceabb787af500f7e7395767d3a4390c6701a9e5bc84e0b/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=teknoloji-ac) |
+| İnternetin tarihi | İpek Yolu kervan haritası | [Aç](https://app.tasvir.ai/c/0fd76526be76cc9483e192da862ff86af029ba42271428034b38d0c685755f0d/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=teknoloji-ac) |
+| Akıllı telefonun içi | şehir atlası | [Aç](https://app.tasvir.ai/c/fd50d1f2b6b90bd26f769fec9c674157ae14e4117beea57588656211ffc569de/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=teknoloji-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -407,9 +407,9 @@ kısa açıklamalar.
 
 | Konu | Format | |
 |---|---|---|
-| Mardin | Wes Anderson film seti kitapçığı | [Aç](https://app.tasvir.ai/c/6f3f3798d1908807baeec8a9280dfcd1516f01a506501499d0bb4dbcc8ab5b7d/1) |
-| Karadeniz'den Van'a | Ghibli storyboard | [Aç](https://app.tasvir.ai/c/c1fd8bb92b25128d7f82c99546e0f62708fabeebc95c57237f2be2c6fc0d6ce9/1) |
-| İstanbul'un 7 tepesi | Tolkien haritası | [Aç](https://app.tasvir.ai/c/f5e010c886dd0dbd6a416f95070c45c4763d144fb72d8c7420fd5e36d8d19e71/1) |
+| Mardin | Wes Anderson film seti kitapçığı | [Aç](https://app.tasvir.ai/c/6f3f3798d1908807baeec8a9280dfcd1516f01a506501499d0bb4dbcc8ab5b7d/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=seyahat-ac) |
+| Karadeniz'den Van'a | Ghibli storyboard | [Aç](https://app.tasvir.ai/c/c1fd8bb92b25128d7f82c99546e0f62708fabeebc95c57237f2be2c6fc0d6ce9/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=seyahat-ac) |
+| İstanbul'un 7 tepesi | Tolkien haritası | [Aç](https://app.tasvir.ai/c/f5e010c886dd0dbd6a416f95070c45c4763d144fb72d8c7420fd5e36d8d19e71/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=seyahat-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -438,9 +438,9 @@ lejand ve yolculuk rotası. Parşömen dokusu.
 
 | Konu | Format | |
 |---|---|---|
-| Türk makamları | Pantone renk kataloğu | [Aç](https://app.tasvir.ai/c/2dfcdc8c076d6c98d9525ded078064c8dc94d00951ea2ef96be40fee5a073ca0/1) |
-| Osmanlı minyatürü | UI design system | [Aç](https://app.tasvir.ai/c/40bc6edaa986906bb2bb4361d1cca018310122050b9d872d23b0e6db626e587a/1) |
-| Barış Manço şarkıları | kozmik atlas | [Aç](https://app.tasvir.ai/c/40b6feac87eb22be6d6430c5b616c0bdce23b34743d1ee2425bca4141436f644/1) |
+| Türk makamları | Pantone renk kataloğu | [Aç](https://app.tasvir.ai/c/2dfcdc8c076d6c98d9525ded078064c8dc94d00951ea2ef96be40fee5a073ca0/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sanat-ve-muzik-ac) |
+| Osmanlı minyatürü | UI design system | [Aç](https://app.tasvir.ai/c/40bc6edaa986906bb2bb4361d1cca018310122050b9d872d23b0e6db626e587a/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sanat-ve-muzik-ac) |
+| Barış Manço şarkıları | kozmik atlas | [Aç](https://app.tasvir.ai/c/40b6feac87eb22be6d6430c5b616c0bdce23b34743d1ee2425bca4141436f644/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=sanat-ve-muzik-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -469,9 +469,9 @@ hikayesi. Her sahne bir gezegen görseli, nostaljik ve renkli.
 
 | Konu | Format | |
 |---|---|---|
-| Pamuk'un uzay görevi günlüğü | — | [Aç](https://app.tasvir.ai/c/55987c2b74182e33bd3a62636568316f98d36a7846ce822fa6ae8b13a6ad9b7d/1) |
-| Rakamlar | süper kahraman takımı | [Aç](https://app.tasvir.ai/c/809f8faa7cedacfb1e1547fa4c096baf55b40e1ad635b90b22f8c5f7d5c9eef4/1) |
-| Dinozorlar bir okul sınıfı olsaydı | — | [Aç](https://app.tasvir.ai/c/dc5e8b6a7e7c93d9fc2cec0eaaf1df6520d3eba129c50b33cc82b6f110461e22/1) |
+| Pamuk'un uzay görevi günlüğü | — | [Aç](https://app.tasvir.ai/c/55987c2b74182e33bd3a62636568316f98d36a7846ce822fa6ae8b13a6ad9b7d/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cocuk-ac) |
+| Rakamlar | süper kahraman takımı | [Aç](https://app.tasvir.ai/c/809f8faa7cedacfb1e1547fa4c096baf55b40e1ad635b90b22f8c5f7d5c9eef4/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cocuk-ac) |
+| Dinozorlar bir okul sınıfı olsaydı | — | [Aç](https://app.tasvir.ai/c/dc5e8b6a7e7c93d9fc2cec0eaaf1df6520d3eba129c50b33cc82b6f110461e22/1?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=cocuk-ac) |
 
 <details>
 <summary>Bu bölümün 3 istemi</summary>
@@ -506,7 +506,7 @@ Canvas'ta da dokümanda da her sahne, fikrin ihtiyaç duyduğu görseli alıyor:
 - **Geometri ve matematik** — açılar, yaylar, koordinat düzlemi, TikZ çizimleri, LaTeX formüller
 - **Yapay zekâ görselleri, renklendirilmiş kod, tablolar ve ikonlar**
 
-Listenin tamamı: **[tasvir.ai/tr/ozellikler](https://tasvir.ai/tr/ozellikler/)**
+Listenin tamamı: **[tasvir.ai/tr/ozellikler](https://tasvir.ai/tr/ozellikler/?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=tasvir-neler-cizebil-tasvir-ai-tr-ozellikler)**
 
 ## Diğer vitrinler
 
@@ -515,7 +515,7 @@ Listenin tamamı: **[tasvir.ai/tr/ozellikler](https://tasvir.ai/tr/ozellikler/)*
 - **[Tasvir](https://github.com/Tasvir-app/Tasvir)** — ders notu, rapor, dergi ve çocuk kitabı örnekleri.
 - **[Tasvir-Web-Designs-to-Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma)** — aynı 1440 piksel genişlikte web tasarımları, Figma'ya düzenlenebilir katman olarak (İngilizce). Canvas sahneleri de aynı şekilde kopyalanır.
 
-Okul ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=institutions)**. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/).
+Okul ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=institutions)**. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=diger-vitrinler-nasil-calisir).
 
 ---
 
