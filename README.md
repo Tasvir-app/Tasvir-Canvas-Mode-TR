@@ -515,6 +515,7 @@ Listenin tamamı: **[tasvir.ai/tr/ozellikler](https://tasvir.ai/tr/ozellikler/?u
 - **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)** — 83 TYT/AYT konu anlatımı, 2.860 sayfa, istemleriyle.
 - **[Tasvir-Canvas-Mode](https://github.com/Tasvir-app/Tasvir-Canvas-Mode)** — bu vitrinin İngilizce serileri: kuantum dolanıklık romantik komedi olarak, kara delik lüks otel broşürü olarak.
 - **[Tasvir](https://github.com/Tasvir-app/Tasvir)** — ders notu, rapor, dergi ve çocuk kitabı örnekleri.
+- **[Dokümandan video](https://github.com/Tasvir-app/Tasvir-TR#yeni-dokümanın-seslendirilmiş-video-olarak)** — yeni: bir dokümanın kendi sayfaları, Reels, TikTok, Shorts ya da YouTube için seslendirilmiş video olarak.
 - **[Tasvir-Web-Designs-to-Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma)** — aynı 1440 piksel genişlikte web tasarımları, Figma'ya düzenlenebilir katman olarak (İngilizce). Canvas sahneleri de aynı şekilde kopyalanır.
 
 Okul ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=institutions)**. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/?utm_source=github&utm_medium=readme&utm_campaign=canvas-tr&utm_content=diger-vitrinler-nasil-calisir).
